@@ -199,8 +199,8 @@ body {
 
 .banner {
   width: 1920px;
-  height: 980px;
-  background-image: url(/app/assets/images/banner.png);
+  height: 960px;
+  background-image: url(https://github.com/hexschool/2022-web-layout-training/blob/main/week2/banner.png?raw=true);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center; }
