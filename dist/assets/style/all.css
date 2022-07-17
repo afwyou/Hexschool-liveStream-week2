@@ -95,6 +95,9 @@ table {
 .mb-16 {
   margin-bottom: 16px; }
 
+.mb-23 {
+  margin-bottom: 23px; }
+
 .mb-20 {
   margin-bottom: 20px; }
 
@@ -197,12 +200,21 @@ body {
 .container {
   margin: 0 auto; }
 
+.text-center {
+  text-align: center; }
+
 .banner {
-  width: 1920px;
   height: 960px;
   background-image: url(https://github.com/hexschool/2022-web-layout-training/blob/main/week2/banner.png?raw=true);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center; }
+
+.work {
+  list-style: disc; }
+
+.work li::marker {
+  color: #891818;
+  font-size: 60px; }
 
 /*# sourceMappingURL=all.css.map */
